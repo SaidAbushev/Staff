@@ -1,29 +1,20 @@
-## Welcome to GitHub Pages
+## Privacy Policy of Smart staff
 
-You can use the [editor on GitHub](https://github.com/SaidAbushev/Staff/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This Application collects some Personal Data from its Users.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal Data collected for the following purposes and using the following services:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Access to third-party accounts
+Google Drive account access
+Personal Data: various types of Data as specified in the privacy policy of the service
 
 ```markdown
-Syntax highlighted code block
+Contact information
+Owner and Data Controller
+Abushev Said
 
-# Header 1
-## Header 2
-### Header 3
+Owner contact email: abushev.said@gmail.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
